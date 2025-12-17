@@ -1,9 +1,0 @@
-# TEMPLATE NAME
-
-## Directory Layout
-
-###### []()
-###### []()
-###### []()
-
-
