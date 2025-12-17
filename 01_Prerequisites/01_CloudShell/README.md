@@ -8,7 +8,18 @@
 * Experience with routing and routing protocols
 * The ability to navigate the Azure portal and use Azure PowerShell
 
+## Exam Focus:
+> What keywords the exam uses
+> What they want you to choose
+
+## Real-world note:
+> What you'd actually do in production
+
 ## Introduction
 Since Microsofts official learning path structures this introduction, to Azure Cloud Shell, as highly theoretical I've taken the liberty to create some hands on tasks myself. See below:
 
 ### []()
+
+
+
+
