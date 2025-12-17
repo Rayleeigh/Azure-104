@@ -1,25 +1,81 @@
 # **PHASE MODULE NAME**
-> All things listed here are meant to build an elite level understanding of the Azure cloud platform. It is based of the official Microsoft learning path structure, with modifications made from my side. [Link to Microsoft Module](LinkToMicrosoftModule)
+> This module focuses on building **deep, exam-relevant understanding** of a specific Azure concept.
+> It is based on the official Microsoft Learn material, extended with **failure scenarios, troubleshooting exercises, and reasoning-driven solutions**.
+>  
+> Official reference: [Microsoft Learn – Module](LinkToMicrosoftModule)
 
-### **Pre-requisites**
-> the pre-requisites you need to have
+---
 
-### **Microsoft Learn Modules**
-> These are the Microsoft Learn Modules this Phase is based off of:
-* [Link To MS Learn Modules](LinkToMsLearnModules)
+## **Purpose**
+> One or two sentences explaining **what this module trains you to think about**, not just what it covers.
 
-## Exam Focus:
-> What keywords the exam uses
-> What they want you to choose
+---
 
-## Real-world note:
-> What you'd actually do in production
+## **Pre-requisites**
+You should already be comfortable with:
 
-## Theory
-> Links to Theory for the Phase Module
+- Required concept / previous phase module
+- Required Azure service or tool
+- Any assumptions the exam makes at this point
 
-## Exercises
-> Links to Exercises for the Phase Module
+---
 
-## Solution to Exercises
-> Solution to the Exercises for the Phase Module
+## **Microsoft Learn Modules**
+> These modules provide the **theoretical foundation** for this Phase Module.
+
+- [Microsoft Learn Module](LinkToMsLearnModules)
+
+---
+
+## **Exam Focus**
+> This section exists to align learning with **how AZ-104 questions are framed**.
+
+**Keywords & Signals**
+- Common wording used in exam scenarios
+- Subtle signals that indicate what the exam is really testing
+
+**What the Exam Wants You to Choose**
+- The *minimum* correct solution
+- The *correct scope*
+- The *correct service or tool*
+
+---
+
+## **Real-World Note**
+> How this would typically be handled in a production environment.
+
+- What you would automate instead
+- What you would design differently at scale
+- Why the exam expects a simpler answer
+
+> _“In reality you’d do X, but the exam wants Y.”_
+
+---
+
+## **Theory**
+> Conceptual explanations and mental models for this module.
+
+- Link to theory documents
+- Diagrams or decision matrices
+- Definitions the exam assumes you already know
+
+---
+
+## **Exercises**
+> Hands-on scenarios following the **Build → Break → Fix** methodology.
+
+- Build: What to deploy or configure
+- Break: What to misconfigure intentionally
+- Fix: What must be diagnosed and corrected
+
+> **Important:** Do not proceed to the solutions until you have attempted a fix.
+
+---
+
+## **Exercise Solutions**
+> Reasoned solutions, not just answers.
+
+Each solution should explain:
+- Why this fix works
+- Why alternative fixes are incorrect
+- Why this is the **exam-expected** choice
